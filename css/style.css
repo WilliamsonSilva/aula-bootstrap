@@ -18,4 +18,11 @@ body{
 
 .parceiros{
     background-color: #5bfafa;
+    
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    font-size: 15px;
 }
