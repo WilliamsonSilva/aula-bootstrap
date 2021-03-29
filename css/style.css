@@ -13,5 +13,9 @@ body{
     /*margin-top: 30px;*/
     /*padding-top: 50px;*/
     padding-bottom: 50px;
-    
+    padding-top: 10px;   
+}
+
+.parceiros{
+    background-color: #5bfafa;
 }
